@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gi-synergy-v7.example/sitemap.xml
